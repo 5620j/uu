@@ -300,8 +300,8 @@ function create_config( )
    "lock_share",
    "lock_photo",
    "lock_video",
-   "type"
-
+   "type",
+   "pl",
     },
     sudo_users = {189308877},--Sudo users
     moderation = {data = 'data/moderation.json'},
